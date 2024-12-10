@@ -7,4 +7,5 @@ This will be using a dataset of flower images taken from Kaggle: https://www.kag
 There's 2 notebooks:
 
 Flowers.ipynb - The main notebook.
+
 flowers_colab.ipynb - Seperate notebook I made to run some models on Google CoLab (so I could utilize the GPU for faster fitting).
